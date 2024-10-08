@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\MVPStudioReactTemplate",
+    "\\MVPStudioReactTemplate\\ClientApp",
     "\\MVPStudioReactTemplate\\Controllers",
     "\\MVPStudioReactTemplate\\Pages"
   ],
-  "SelectedNode": "\\MVPStudioReactTemplate\\Controllers\\ProductController.cs",
+  "SelectedNode": "\\MVPStudioReactTemplate\\ClientApp\\README.md",
   "PreviewInSolutionExplorer": false
 }

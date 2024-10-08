@@ -1,7 +1,8 @@
 {
-  "name": "MVPStudioReactTemplate",
+  "Name": "MVPStudioReactTemplate",
   "version": "0.1.0",
   "private": true,
+  "node": "14.x",
   "dependencies": {
     "bootstrap": "^3.4.1",
     "react": "^16.0.0",
